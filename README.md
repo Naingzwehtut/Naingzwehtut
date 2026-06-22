@@ -1,55 +1,45 @@
 # Hi 👋, I'm Naing Zwe Htut
+### 🚀 Computer Science Student | Full-Stack Developer | Aspiring Quant Trader
 
-### Computer Science Student | Full-Stack Developer | Aspiring Quant Trader
+<p align="left">
+  <img src="https://img.shields.io/github/followers/Naingzwehtut?label=Followers&style=social" />
+  <img src="https://komarev.com/ghvc/?username=Naingzwehtut&label=Profile%20Views&color=0e75b6&style=flat" alt="Naingzwehtut" />
+</p>
 
-I am a Computer Science student passionate about building real-world applications, learning modern web technologies, and exploring financial markets and algorithmic trading.
-
----
-
-## 🚀 About Me
-
-- 🎓 Computer Science Student  
-- 💻 Full-Stack Web Developer  
-- 📈 Interested in Day Trading (Forex & Financial Markets)  
-- 🤖 Aspiring Quant Trader / Algorithmic Trading Developer  
-- 🌱 Currently learning Advanced Backend Development  
-- 🔍 Interested in FinTech, Trading Systems, and Data Analysis  
-- ⚡ I enjoy building practical and useful software  
+I am a Computer Science student passionate about building highly performant, real-world web applications and bridging the gap between software engineering and financial markets through quantitative research and algorithmic trading.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Ecosystem
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E01E?logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+### 🎨 Frontend & Design
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7E01E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+</p>
 
----
+### ⚙️ Backend & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
+</p>
 
-### ⚙️ Backend
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-
----
-
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-
----
-
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?logo=fastapi&logoColor=white)
+### 🧰 Tools & Infrastructures
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_API-009688?logo=fastapi&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" />
+</p>
 
 ---
 
@@ -59,55 +49,38 @@ I am a Computer Science student passionate about building real-world application
   <tr>
     <td width="50%" valign="top">
 
-### 💊 Pharmacy POS System  
-A real-world pharmacy management system.
+### 💊 Pharmacy POS System
+> A production-ready pharmacy management system optimizing sales and inventory workflows.
 
-**Key Features:**
-- Inventory management  
-- Sales & billing system  
-- Profit calculation  
-- Expiry tracking  
-- Role-based access  
-- Dashboard analytics  
+*   **Core Engineering:** Dynamic inventory pipelines, role-based access control, and automated expiry tracking alerts.
+*   **Analytics:** Integrated dashboard visualizing sales data, profit-margin calculation, and critical stock level metrics.
+    </td>
+    <td width="50%" valign="top">
 
----
+### 📊 Trading Journal
+> An analytical metrics tracker engineered for active retail and algorithmic day traders.
 
-### 📊 Trading Journal  
-Track and analyze trading performance.
+*   **Risk Metrics:** Automates computation of win/loss ratios, risk-to-reward dynamics, and custom strategy performance metrics.
+*   **Data Aggregation:** Centralized system designed to remove psychological variance by highlighting pure statistical edge.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-**Key Features:**
-- Trade logging  
-- Win rate tracking  
-- Risk-to-reward analysis  
-- Performance dashboard  
-- Trading statistics  
+### 💼 Job Finder Platform
+> A robust full-stack job portal facilitating real-time interactions between employers and tech talent.
 
-</td>
+*   **Architecture:** Built on a secure REST API backend coupled with modern user authentication protocols.
+*   **UX Focus:** Responsive layout showcasing streamlined application workflows and clean data presentation.
+    </td>
+    <td width="50%" valign="top">
 
-<td width="50%" valign="top">
+### 📰 Forex News Dashboard
+> A financial news aggregator built specifically to capture macroeconomic market sentiment.
 
-### 💼 Job Finder Platform  
-Full-stack job portal for employers & job seekers.
-
-**Key Features:**
-- User authentication  
-- Job posting system  
-- Job applications  
-- REST API backend  
-- Responsive UI  
-
----
-
-### 📰 Forex News Dashboard  
-Financial news dashboard for traders.
-
-**Key Features:**
-- Forex news updates  
-- Market filtering  
-- Simple dashboard UI  
-- Trading-focused design  
-
-</td>
+*   **Data Filtering:** Fast keyword and asset class isolation designed to prevent information overload during volatile economic releases.
+*   **Design:** High-density, minimal distraction UI optimized for quick information parsing.
+    </td>
   </tr>
 </table>
 
@@ -115,44 +88,39 @@ Financial news dashboard for traders.
 
 ## 📚 Currently Learning
 
-- Spring Boot  
-- Data Structures & Algorithms  
-- Algorithmic Trading  
-- Quantitative Finance  
-- System Design Basics  
-- Financial Data Analysis  
+- 🧠 **Deep Diving:** System Design basics, advanced backend architectures, and production scaling.
+- 📈 **Quantitative Finance:** Exploring financial data analysis and algorithmic trading strategies via Python.
 
 ---
 
-## 🎯 Goals
+## 🎯 Strategic Goals
 
-- Become a Quantitative Trader  
-- Build Algorithmic Trading Systems  
-- Become a Strong Full-Stack Developer  
-- Contribute to Open Source  
-- Get Software Engineering Internship  
-- Build Production-Level Applications  
+- 🤖 **Quantitative Finance:** Design, backtest, and deploy robust algorithmic trading systems.
+- 💻 **Core Engineering:** Transition from student projects to building production-level, scalable software.
+- 🚀 **Industry Experience:** Secure a Software Engineering or FinTech internship to tackle real-world architecture challenges.
+- 🌐 **Open Source:** Actively contribute to modern web ecosystems and open-source developer tools.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Analytics & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naingzwehtut&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Naingzwehtut&show_icons=true&theme=tokyonight&count_private=true" alt="Naingzwehtut's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naingzwehtut&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naingzwehtut&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naingzwehtut&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
-- GitHub: https://github.com/Naingzwehtut  
-- LinkedIn: YOUR_LINKEDIN  
-- Portfolio: YOUR_PORTFOLIO  
+<p align="left">
+  <a href="https://github.com/Naingzwehtut"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlesheets&logoColor=white" /></a>
+</p>
 
----
-
-⭐ *“Build. Learn. Improve. Repeat.”*
+> ⭐ *"Build. Learn. Improve. Repeat."*
