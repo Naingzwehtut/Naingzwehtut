@@ -1,11 +1,6 @@
 # Hi 👋, I'm Naing Zwe Htut
 ### 🚀 Computer Science Student | Full-Stack Developer | Aspiring Quant Trader
 
-<p align="left">
-  <img src="https://img.shields.io/github/followers/Naingzwehtut?label=Followers&style=social" />
-  <img src="https://komarev.com/ghvc/?username=Naingzwehtut&label=Profile%20Views&color=0e75b6&style=flat" alt="Naingzwehtut" />
-</p>
-
 I am a Computer Science student passionate about building highly performant, real-world web applications and bridging the gap between software engineering and financial markets through quantitative research and algorithmic trading.
 
 ---
