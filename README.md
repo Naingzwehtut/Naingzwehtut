@@ -23,7 +23,7 @@ I am a Computer Science student passionate about building real-world application
 ### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DFE1?logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 
@@ -50,7 +50,7 @@ I am a Computer Science student passionate about building real-world application
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?logo=fastapi&logoColor=white)
- 
+
 ---
 
 ## 📂 Featured Projects
@@ -127,6 +127,19 @@ Financial news dashboard for traders.
 - Trading-focused design  
 
 </td>
+<td width="50%" valign="top">
+
+### 🚀 Additional Projects  
+More projects will be added soon.
+
+**Coming Soon:**
+- Spring Boot projects  
+- Algorithmic trading system  
+- Advanced backend systems  
+
+</td>
+  </tr>
+</table>
 
 ---
 
@@ -166,7 +179,7 @@ Financial news dashboard for traders.
 
 ## 🤝 Connect With Me
 
-- GitHub: https://github.com/Naingzwehtut 
+- GitHub: https://github.com/Naingzwehtut  
 - LinkedIn: YOUR_LINKEDIN  
 - Portfolio: YOUR_PORTFOLIO  
 
