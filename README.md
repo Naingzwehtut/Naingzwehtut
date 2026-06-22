@@ -55,50 +55,79 @@ I am a Computer Science student passionate about building real-world application
 
 ## 📂 Featured Projects
 
-### 💊 Pharmacy POS System
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 💊 Pharmacy POS System  
 A real-world pharmacy management system.
 
-**Features:**
+**Key Features:**
 - Inventory management  
-- Sales tracking  
+- Sales & billing system  
 - Profit calculation  
-- Expiry date tracking  
-- Role-based authentication  
+- Expiry tracking  
+- Role-based access  
 - Dashboard analytics  
 
----
+</td>
+<td width="50%" valign="top">
 
-### 💼 Job Finder Platform
-Full-stack job portal connecting employers and job seekers.
+### 💼 Job Finder Platform  
+Full-stack job portal for employers & job seekers.
 
-**Features:**
+**Key Features:**
 - User authentication  
 - Job posting system  
 - Job applications  
 - REST API backend  
 - Responsive UI  
 
----
+</td>
+  </tr>
 
-### 📊 Trading Journal
-A system to track trading performance.
+  <tr>
+    <td width="50%" valign="top">
 
-**Features:**
+### 📊 Trading Journal  
+Track and analyze trading performance.
+
+**Key Features:**
 - Trade logging  
-- Win rate calculation  
-- Risk-to-reward tracking  
-- Performance analytics  
-- Trading dashboard  
+- Win rate tracking  
+- Risk-to-reward analysis  
+- Performance dashboard  
+- Trading statistics  
 
----
+</td>
+<td width="50%" valign="top">
 
-### ✅ Habit Tracker
-A productivity app for daily habits and goals.
+### ✅ Habit Tracker  
+Simple productivity habit tracking app.
 
----
+**Key Features:**
+- Daily habit tracking  
+- Progress monitoring  
+- Clean UI  
+- Motivation tracking  
 
-### 📰 Forex News Dashboard
-Displays financial news and market updates.
+</td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+
+### 📰 Forex News Dashboard  
+Financial news dashboard for traders.
+
+**Key Features:**
+- Forex news updates  
+- Market filtering  
+- Simple dashboard UI  
+- Trading-focused design  
+
+</td>
+<td width="50%" valign="top">
 
 ---
 
