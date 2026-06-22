@@ -20,29 +20,37 @@ I am a Computer Science student passionate about building real-world application
 
 ## 🛠️ Tech Stack
 
-### Frontend
-- HTML5  
-- CSS3  
-- JavaScript  
-- Bootstrap  
-- Tailwind CSS  
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 
-### Backend
-- Python  
-- Flask  
-- PHP  
-- Laravel  
+---
 
-### Database
-- MySQL  
-- PostgreSQL  
+### ⚙️ Backend
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 
-### Tools & Platforms
-- Git & GitHub  
-- Linux / Kali Linux  
-- WordPress  
-- REST APIs  
+---
 
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
+---
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?logo=fastapi&logoColor=white)
+ 
 ---
 
 ## 📂 Featured Projects
@@ -119,7 +127,7 @@ Displays financial news and market updates.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaingzwehtutE&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Naingzwehtut&show_icons=true" />
 </p>
 
 <p align="center">
