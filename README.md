@@ -23,7 +23,7 @@ I am a Computer Science student passionate about building real-world application
 ### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DFE1?logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E01E?logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
 
@@ -70,24 +70,7 @@ A real-world pharmacy management system.
 - Role-based access  
 - Dashboard analytics  
 
-</td>
-<td width="50%" valign="top">
-
-### 💼 Job Finder Platform  
-Full-stack job portal for employers & job seekers.
-
-**Key Features:**
-- User authentication  
-- Job posting system  
-- Job applications  
-- REST API backend  
-- Responsive UI  
-
-</td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
+---
 
 ### 📊 Trading Journal  
 Track and analyze trading performance.
@@ -100,22 +83,20 @@ Track and analyze trading performance.
 - Trading statistics  
 
 </td>
+
 <td width="50%" valign="top">
 
-### ✅ Habit Tracker  
-Simple productivity habit tracking app.
+### 💼 Job Finder Platform  
+Full-stack job portal for employers & job seekers.
 
 **Key Features:**
-- Daily habit tracking  
-- Progress monitoring  
-- Clean UI  
-- Motivation tracking  
+- User authentication  
+- Job posting system  
+- Job applications  
+- REST API backend  
+- Responsive UI  
 
-</td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
+---
 
 ### 📰 Forex News Dashboard  
 Financial news dashboard for traders.
@@ -125,17 +106,6 @@ Financial news dashboard for traders.
 - Market filtering  
 - Simple dashboard UI  
 - Trading-focused design  
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 Additional Projects  
-More projects will be added soon.
-
-**Coming Soon:**
-- Spring Boot projects  
-- Algorithmic trading system  
-- Advanced backend systems  
 
 </td>
   </tr>
