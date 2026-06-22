@@ -127,7 +127,6 @@ Financial news dashboard for traders.
 - Trading-focused design  
 
 </td>
-<td width="50%" valign="top">
 
 ---
 
