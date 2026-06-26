@@ -1,5 +1,5 @@
-# Hi 👋, I'm Naing Zwe Htut
-### 🚀 Computer Science Student | Full-Stack Developer | Aspiring Quant Trader
+# Hi, I'm Naing Zwe Htut
+### Computer Science Student | Full-Stack Developer | Aspiring Quant Trader
 
 I am a Computer Science student passionate about building highly performant, real-world web applications and bridging the gap between software engineering and financial markets through quantitative research and algorithmic trading.
 
