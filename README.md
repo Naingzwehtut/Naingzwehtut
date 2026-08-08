@@ -104,6 +104,11 @@ I am a Computer Science student passionate about building highly performant, rea
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naingzwehtut&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Naingzwehtut&show_icons=true&theme=tokyonight" alt="Naingzwehtut's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Naingzwehtut&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+</p>
+
 ---
 
 ## 🤝 Let's Connect
