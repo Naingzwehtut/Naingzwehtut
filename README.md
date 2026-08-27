@@ -110,8 +110,7 @@ I am a Computer Science student passionate about building highly performant, rea
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Naingzwehtut/Naingzwehtut/output/streak.svg" alt="GitHub streak stats" />
-
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naingzwehtut/Naingzwehtut/output/github-snake-dark.svg"> <img alt="github snake" src="https://raw.githubusercontent.com/Naingzwehtut/Naingzwehtut/output/github-snake.svg"> </picture> 
 
 ---
 
