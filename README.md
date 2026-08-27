@@ -98,18 +98,15 @@ I am a Computer Science student passionate about building highly performant, rea
 ---
 
 ## 📊 Analytics & Insights
-
-<br><br>
-
-<!-- <img height="170" src="https://github-stats-extended.vercel.app/api?username=Naingzwehtut&hide_border=true&bg_color=00000000&title_color=BD93F9&icon_color=BD93F9&text_color=C9C9D9&show_icons=true" />
-<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=Naingzwehtut&hide_border=true&bg_color=00000000&title_color=BD93F9&text_color=C9C9D9&layout=compact&langs_count=6" /> -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+Developer;Quant+Trader" />
+</p>
+<br>
 <p align="center">
   <img src="https://github-readme-stats-one-orpin-zbxre148qi.vercel.app/api?username=Naingzwehtut&show_icons=true&theme=tokyonight"  height="180px" />
   <img src="https://github-readme-stats-one-orpin-zbxre148qi.vercel.app/api/top-langs/?username=Naingzwehtut&layout=compact&theme=tokyonight"  height="180px"/>
 </p>
-
 <br>
-
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naingzwehtut/Naingzwehtut/output/github-snake-dark.svg"> <img alt="github snake" src="https://raw.githubusercontent.com/Naingzwehtut/Naingzwehtut/output/github-snake.svg"> </picture> 
 
 ---
