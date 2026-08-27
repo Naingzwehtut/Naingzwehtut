@@ -123,11 +123,3 @@ I am a Computer Science student passionate about building highly performant, rea
 </p>
 
 > ⭐ *"Build. Learn. Improve. Repeat."*
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naingzwehtut/Naingzwehtut/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Naingzwehtut/Naingzwehtut/output/github-contribution-grid-snake.svg" />
-</picture>
-
