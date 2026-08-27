@@ -104,8 +104,8 @@ I am a Computer Science student passionate about building highly performant, rea
 <!-- <img height="170" src="https://github-stats-extended.vercel.app/api?username=Naingzwehtut&hide_border=true&bg_color=00000000&title_color=BD93F9&icon_color=BD93F9&text_color=C9C9D9&show_icons=true" />
 <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=Naingzwehtut&hide_border=true&bg_color=00000000&title_color=BD93F9&text_color=C9C9D9&layout=compact&langs_count=6" /> -->
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Naingzwehtut&show_icons=true&theme=tokyonight" alt="Naingzwehtut's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Naingzwehtut&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats-one-orpin-zbxre148qi.vercel.app/api?username=Naingzwehtut&show_icons=true&theme=tokyonight" alt="Naingzwehtut's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats-one-orpin-zbxre148qi.vercel.app/api/top-langs/?username=Naingzwehtut&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
 
 <br>
