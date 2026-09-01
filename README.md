@@ -5,9 +5,9 @@ I am a Computer Science student passionate about building highly performant, rea
 
 ---
 
-## 🛠️ Tech Stack & Ecosystem
+##  Tech Stack & Ecosystem
 
-### 🎨 Frontend & Design
+###  Frontend & Design
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
@@ -17,7 +17,7 @@ I am a Computer Science student passionate about building highly performant, rea
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
 </p>
 
-### ⚙️ Backend & Databases
+###  Backend & Databases
 <p align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
@@ -27,7 +27,7 @@ I am a Computer Science student passionate about building highly performant, rea
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
 </p>
 
-### 🧰 Tools & Infrastructures
+###  Tools & Infrastructures
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
@@ -44,7 +44,7 @@ I am a Computer Science student passionate about building highly performant, rea
   <tr>
     <td width="50%" valign="top">
 
-### 💊 Pharmacy POS System
+###  Pharmacy POS System
 > A production-ready pharmacy management system optimizing sales and inventory workflows.
 
 *   **Core Engineering:** Dynamic inventory pipelines, role-based access control, and automated expiry tracking alerts.
@@ -52,7 +52,7 @@ I am a Computer Science student passionate about building highly performant, rea
     </td>
     <td width="50%" valign="top">
 
-### 📊 Trading Journal
+###  Trading Journal
 > An analytical metrics tracker engineered for active retail and algorithmic day traders.
 
 *   **Risk Metrics:** Automates computation of win/loss ratios, risk-to-reward dynamics, and custom strategy performance metrics.
@@ -62,7 +62,7 @@ I am a Computer Science student passionate about building highly performant, rea
   <tr>
     <td width="50%" valign="top">
 
-### 💼 Job Finder Platform
+###  Job Finder Platform
 > A robust full-stack job portal facilitating real-time interactions between employers and tech talent.
 
 *   **Architecture:** Built on a secure REST API backend coupled with modern user authentication protocols.
@@ -70,7 +70,7 @@ I am a Computer Science student passionate about building highly performant, rea
     </td>
     <td width="50%" valign="top">
 
-### 📰 Forex News Dashboard
+###  Forex News Dashboard
 > A financial news aggregator built specifically to capture macroeconomic market sentiment.
 
 *   **Data Filtering:** Fast keyword and asset class isolation designed to prevent information overload during volatile economic releases.
@@ -81,19 +81,19 @@ I am a Computer Science student passionate about building highly performant, rea
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
-- 🧠 **Deep Diving:** System Design basics, advanced backend architectures, and production scaling.
-- 📈 **Quantitative Finance:** Exploring financial data analysis and algorithmic trading strategies via Python.
+-  **Deep Diving:** System Design basics, advanced backend architectures, and production scaling.
+-  **Quantitative Finance:** Exploring financial data analysis and algorithmic trading strategies via Python.
 
 ---
 
-## 🎯 Strategic Goals
+##  Strategic Goals
 
-- 🤖 **Quantitative Finance:** Design, backtest, and deploy robust algorithmic trading systems.
-- 💻 **Core Engineering:** Transition from student projects to building production-level, scalable software.
-- 🚀 **Industry Experience:** Secure a Software Engineering or FinTech internship to tackle real-world architecture challenges.
-- 🌐 **Open Source:** Actively contribute to modern web ecosystems and open-source developer tools.
+-  **Quantitative Finance:** Design, backtest, and deploy robust algorithmic trading systems.
+-  **Core Engineering:** Transition from student projects to building production-level, scalable software.
+-  **Industry Experience:** Secure a Software Engineering or FinTech internship to tackle real-world architecture challenges.
+-  **Open Source:** Actively contribute to modern web ecosystems and open-source developer tools.
 
 ---
 
