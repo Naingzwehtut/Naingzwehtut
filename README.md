@@ -125,7 +125,7 @@ I am a Computer Science student passionate about building highly performant, rea
 
 ## 📊 Analytics & Insights
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+Developer;Quant+Trader" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+Developer" />
 </p>
 <br>
 <p align="center">
