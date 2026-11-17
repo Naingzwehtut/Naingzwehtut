@@ -64,6 +64,22 @@ I am a Computer Science student passionate about building highly performant, rea
 
 ---
 
+## 🛠️ Open Source I Maintain
+
+<p align="center">
+  <a href="https://github.com/Naingzwehtut/greenlight"><img src="https://github-readme-stats-one-orpin-zbxre148qi.vercel.app/api/pin/?username=Naingzwehtut&repo=greenlight&theme=tokyonight" alt="greenlight" /></a>
+  <a href="https://github.com/Naingzwehtut/git-wrapped"><img src="https://github-readme-stats-one-orpin-zbxre148qi.vercel.app/api/pin/?username=Naingzwehtut&repo=git-wrapped&theme=tokyonight" alt="git-wrapped" /></a>
+  <a href="https://github.com/Naingzwehtut/awesome-free-for-students"><img src="https://github-readme-stats-one-orpin-zbxre148qi.vercel.app/api/pin/?username=Naingzwehtut&repo=awesome-free-for-students&theme=tokyonight" alt="awesome-free-for-students" /></a>
+</p>
+
+- 🚦 **[greenlight](https://github.com/Naingzwehtut/greenlight)**: an AI agent that turns red CI green. It reads failing GitHub Actions logs, fixes the code, proves the fix with your own tests, and opens a PR.
+- 🎁 **[git-wrapped](https://github.com/Naingzwehtut/git-wrapped)**: your year in code, Spotify Wrapped style. One command, 100% local, a shareable card. Go, Python and JS.
+- 🎓 **[awesome-free-for-students](https://github.com/Naingzwehtut/awesome-free-for-students)**: every legit free tool and credit for students, verified, with the fine print up front.
+
+Contributions and ⭐ are very welcome.
+
+---
+
 ##  Featured Projects
 
 <table>
