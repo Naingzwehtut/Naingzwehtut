@@ -129,8 +129,8 @@ I am a Computer Science student passionate about building highly performant, rea
 </p>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats-one-orpin-zbxre148qi.vercel.app/api?username=Naingzwehtut&show_icons=true&theme=tokyonight&v=2"  height="180px" />
-  <img src="https://github-readme-stats-one-orpin-zbxre148qi.vercel.app/api/top-langs/?username=Naingzwehtut&layout=compact&theme=tokyonight&v=2"  height="180px"/>
+  <img src="https://github-readme-stats-one-orpin-zbxre148qi.vercel.app/api?username=Naingzwehtut&show_icons=true&theme=tokyonight&v=3"  height="180px" />
+  <img src="https://github-readme-stats-one-orpin-zbxre148qi.vercel.app/api/top-langs/?username=Naingzwehtut&layout=compact&theme=tokyonight&v=3"  height="180px"/>
 </p>
 <br>
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naingzwehtut/Naingzwehtut/output/github-snake-dark.svg"> <img alt="github snake" src="https://raw.githubusercontent.com/Naingzwehtut/Naingzwehtut/output/github-snake.svg"> </picture> 
